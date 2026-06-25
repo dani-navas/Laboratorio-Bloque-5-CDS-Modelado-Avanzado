@@ -1,0 +1,4 @@
+@EndUserText.label: 'Serevice Definition Custom Entity'
+define service ZSD_CUSTOM_DETAIL_DNAVAS {
+  expose ZCDS_CUSTOM_DETAIL_dnavas as CustomDetail;
+}
